@@ -10,6 +10,7 @@ My theme for this assignment is a mock Coveteur blog post that has animations in
 <li>CSS Transition</li>
 <li>SVG Animation (twice)</li>
 
+
 For the CSS Shake animations I placed them into the Gallery (they are the sneaker illustrations I did) and when you hover over them they will shake. 
 
 For the CSS Transition animation I placed it into the text of the blog content, and when you hover over the sneaker illustrations (of the three sneakers) i did you will see the blank shoe canvas transform and add colour into the sneaker. 
